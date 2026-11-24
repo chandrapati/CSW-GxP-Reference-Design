@@ -63,6 +63,8 @@ CSW does **not**:
 
 ---
 
+![GxP deployment phases — the seven-phase plan this design follows, from sensor coverage through ongoing compliance posture](assets/csw-delivery-phases.png)
+
 ## 3. Phase 1 — Sensor Deployment (Days 1–10)
 
 Longer than the HIPAA equivalent by design: validated systems move through change control, not change windows.
@@ -129,6 +131,8 @@ CSW UI → Manage → Agents
 ### 4.1 GxP Scope Architecture
 
 Design scopes around **validation status first, application second.** This is the inverse of most deployments, and it is what makes the Annex 11 §12 story work.
+
+![GxP scope architecture — the recommended CSW scope hierarchy, with label-driven membership so the boundary stays current](assets/csw-scope-architecture.png)
 
 ```
 Root Scope
